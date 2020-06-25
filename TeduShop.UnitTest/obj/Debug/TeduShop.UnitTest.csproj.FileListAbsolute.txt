@@ -1,0 +1,14 @@
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\TeduShop.UnitTest.pdb
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojAssemblyReference.cache
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CoreCompileInputs.cache
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csproj.CopyComplete
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb

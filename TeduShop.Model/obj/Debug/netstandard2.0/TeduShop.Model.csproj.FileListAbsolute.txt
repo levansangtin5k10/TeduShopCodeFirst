@@ -1,0 +1,9 @@
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.deps.json
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.csprojAssemblyReference.cache
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.csproj.CoreCompileInputs.cache
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.AssemblyInfoInputs.cache
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.AssemblyInfo.cs
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\bin\Debug\netstandard2.0\TeduShop.Model.pdb
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.dll
+E:\Tedu\APICodeFirst\TeduShop\TeduShop.Model\obj\Debug\netstandard2.0\TeduShop.Model.pdb
