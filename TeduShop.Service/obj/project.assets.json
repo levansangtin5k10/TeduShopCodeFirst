@@ -284,11 +284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+      "projectUniqueName": "E:\\SourceGit\\TeduShop.Service\\TeduShop.Service.csproj",
       "projectName": "TeduShop.Service",
-      "projectPath": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+      "projectPath": "E:\\SourceGit\\TeduShop.Service\\TeduShop.Service.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Service\\obj\\",
+      "outputPath": "E:\\SourceGit\\TeduShop.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -307,11 +307,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
-              "projectPath": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
+            "E:\\SourceGit\\TeduShop.Common\\TeduShop.Common.csproj": {
+              "projectPath": "E:\\SourceGit\\TeduShop.Common\\TeduShop.Common.csproj"
             },
-            "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
-              "projectPath": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj"
+            "E:\\SourceGit\\TeduShop.Data\\TeduShop.Data.csproj": {
+              "projectPath": "E:\\SourceGit\\TeduShop.Data\\TeduShop.Data.csproj"
             }
           }
         }

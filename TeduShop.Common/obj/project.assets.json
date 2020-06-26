@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+      "projectUniqueName": "E:\\SourceGit\\TeduShop.Common\\TeduShop.Common.csproj",
       "projectName": "TeduShop.Common",
-      "projectPath": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+      "projectPath": "E:\\SourceGit\\TeduShop.Common\\TeduShop.Common.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Tedu\\APICodeFirst\\TeduShop\\TeduShop.Common\\obj\\",
+      "outputPath": "E:\\SourceGit\\TeduShop.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
